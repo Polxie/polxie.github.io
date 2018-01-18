@@ -26,7 +26,7 @@ body {
     text-align: center;
 }
 
-@media (max-height: 500px) {
+@media (max-height: 800px) {
 
     .main {
         top: 50px;
